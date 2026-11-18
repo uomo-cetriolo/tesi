@@ -1,0 +1,5 @@
+cluster,numerosita,n_richieste,importo_totale,importo_medio_richiesta,giorni_ultima_richiesta,anzianita_giorni,percentuale,nome
+0,102,6.1,493.8,86.4,29.7,230.5,20.4,Occasionali
+1,125,35.7,3353.2,94.8,3.4,220.4,25.0,Molto attivi
+2,142,3.4,306.4,91.2,9.7,30.4,28.4,Recenti
+3,131,2.5,217.8,87.1,121.8,232.3,26.2,Inattivi (a rischio abbandono)
